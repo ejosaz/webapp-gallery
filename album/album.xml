@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<descriptions>
+	<image>
+		<name>01.jpg</name>
+		<text1>This is a long text. This is a long text. This is a long text. This is a long text. This is a long text.</text1>
+		<link1>http://www.google.com</link1>
+		<text2>Wanna go link 2?</text2>
+		<link2>http://www.google.com</link2>
+		<text3>Wanna go link 3</text3>
+		<link3>http://www.google.com</link3>
+	</image>
+	<image>
+		<name>02.jpg</name>
+		<text1>Wanna go link 1?</text1>
+		<link1>http://www.google.com</link1>
+		<text2>Wanna go link 2?</text2>
+		<link2>http://www.google.com</link2>
+		<text3>Wanna go link 3</text3>
+		<link3>http://www.google.com</link3>
+	</image>
+	<image>
+		<name>03.jpg</name>
+		<text1>Wanna go link 1?</text1>
+		<link1>http://www.google.com</link1>
+		<text2>Wanna go link 2?</text2>
+		<link2>http://www.google.com</link2>
+		<text3>Wanna go link 3</text3>
+		<link3>http://www.google.com</link3>
+	</image>
+	<image>
+		<name>04.jpg</name>
+		<text1>Wanna go link 1?</text1>
+		<link1>http://www.google.com</link1>
+		<text2>Wanna go link 2?</text2>
+		<link2>http://www.google.com</link2>
+		<text3>Wanna go link 3</text3>
+		<link3>http://www.google.com</link3>
+	</image>
+	<image>
+		<name>05.jpg</name>
+		<text1>Wanna go link 1?</text1>
+		<link1>http://www.google.com</link1>
+		<text2>Wanna go link 2?</text2>
+		<link2>http://www.google.com</link2>
+		<text3>Wanna go link 3</text3>
+		<link3>http://www.google.com</link3>
+	</image>
+</descriptions> 
